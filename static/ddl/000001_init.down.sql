@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS companies;
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS deliveris;
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS orderds;
